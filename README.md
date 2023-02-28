@@ -7,4 +7,4 @@ Se demuestra como crear el proyecto y funcionamiento de ReactiveX junto a Observ
 
 ## Gestor de dependencias: Gradle
 
-##Libreria utilizada ReactiveX en su version: 3.1.6-RC0
+### Libreria utilizada ReactiveX en su version: 3.1.6-RC0
